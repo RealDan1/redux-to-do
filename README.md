@@ -16,7 +16,7 @@ The app demonstrates how to:
 ## Key Features
 
 -   **Task Management:** Users can add, edit, delete, and mark tasks as completed.
--   **Modals for Interaction:**
+-   **Bootstrap modals for Interaction:**
     -   **Instruction Modal:** Guides users on how to use the app.
     -   **Edit Modal:** Allows users to update existing tasks.
     -   **Warning Modal:** Displays important alerts.
